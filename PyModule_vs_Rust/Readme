@@ -1,0 +1,12 @@
+
+Python is bit slow
+
+Output of montecarlo.py:
+1.28secs runtime
+3.141439
+3,112,842 calculations per second
+
+Output of rust:
+1.21secs runtime
+3.141962
+3,303,689 calculations per second
